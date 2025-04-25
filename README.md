@@ -1,6 +1,6 @@
 # 🚀 Git & GitHub A-Z Guide
 
-Welcome to the ultimate Git and GitHub guide! This document explains the basics, key definitions, and essential commands you need to start version-controlling your projects.
+>Welcome to the ultimate Git and GitHub guide! This document explains the basics, key definitions, and essential commands you need to start version-controlling your projects.
 
 ---
 
