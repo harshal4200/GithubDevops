@@ -1,0 +1,26 @@
+git is a version control tool which track time , author , commit, and date .
+
+git init : to initialize an empty git repository
+git status: to check status of git files present
+
+
+- Untracked >> Staged >> Tracked
+
+git add <filename> : to move Untracked file to Staged 
+git rm --cached <filename> : to move staged file to Untracked
+git add . : to move all files to Staged
+git add <filename> : to move specific file to Staged
+git commit -m "comment" : to move staged file to Tracked 
+git restore <deletedfilename> : to restore deleted file
+history : to see all history
+git restore --staged <filename> : to move from tracked file to Untracked file
+
+
+git remote add origin <repo url> : to push the code to the GitHub
+git remote -v : to check wether it added or not
+git push origin <newbranchname>
+git clone <url>: for bring code to local server
+
+git remote remove origin
+git remote add origin https://github.com/your-username/your-repo.git
+git push -u origin main  # ya master
