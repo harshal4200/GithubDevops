@@ -143,6 +143,9 @@ Go to GitHub and open a Pull Request (PR)
 - 🔀 Pull before push to avoid conflicts
 
 - 🧪 Use branches to test features safely
+**✨move from master to main**
+- `git branch -m master main ` 
+
 
 ## ❤️ Made for Beginners friendly ##
 This guide is designed for learners who want to start using Git and GitHub confidently. Happy coding!
